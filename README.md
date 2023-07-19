@@ -7,6 +7,6 @@
 * SASS
 
 ## Preview
-![ScreenShot 01](/assets/preview.png)
+![ScreenShot 01](/src/assets/preview.png)
 
 
