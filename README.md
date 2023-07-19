@@ -6,4 +6,7 @@
 * Typescript
 * SASS
 
+## Preview
+![ScreenShot 01](/assets/preview.png)
+
 
